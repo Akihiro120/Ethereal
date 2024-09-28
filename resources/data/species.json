@@ -1,0 +1,56 @@
+{
+    "species": [
+        {
+            "name": "Human",
+            "description": "Versatile and adaptable, excelling in a variety of roles, with balanced abilities across the board."
+        },
+        {
+            "name": "Elf",
+            "description": "Elegant and long-lived, closed attuned to nature and magic, with heightened dexterity and intellect."
+        },
+        {
+            "name": "Dwarven",
+            "description": "Tough and resilient, known for their strength, endurance, and mastery of metalworks and stonecraft."
+        },
+        {
+            "name": "Orc",
+            "description": "Strong and fierce warriors, driven by their tribal culture and natural combat prowess."
+        },
+        {
+            "name": "Goblin",
+            "description": "Small, quick, and clever, often relying on stealth, traps, and trickery to outwit their enemies."
+        },
+        {
+            "name": "Lizardfolk",
+            "description": "Reptilian humanoids with natural armor and an affinity for water, known for their survial instincts."
+        },
+        {
+            "name": "Kobold",
+            "description": "Small, dragon-like creatures that are cowardly but skilled in creating complex traps and tunnels."
+        },
+        {
+            "name": "Gnome",
+            "description": "Inventive and curious, adept at both magic and machinery, with a knck for tinkering and experimentation."
+        },
+        {
+            "name": "Troll",
+            "description": "Large and regenerative, trolls are slow but incredibly strong, able to heal wounds quickly."
+        },
+        {
+            "name": "Centaur",
+            "description": "Half-human, half-horse being, known for their speed and archery skills, as well as their nomadic lifestyle."
+        },
+        {
+            "name": "Felinid",
+            "description": "Agile and cat-like, with enhanced reflexes and senses, making them excellent hunters and scouts."
+        },
+        {
+            "name": "Draconid",
+            "description": "Dragon-blooded humanoids with the ability to harness elemental magic effectively, often feared and respected."
+        },
+        {
+            "name": "Triton",
+            "description": "Ocean-dwelling warriors with mastery over water, able to communicate with sea creatures and control tides."
+        }
+    ]
+}

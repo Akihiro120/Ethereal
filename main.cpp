@@ -1,7 +1,9 @@
-#include <iostream>
+#include "src/game/game.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    Game game = {};
+    game.Run();
+    game.CleanUp();
 
     return 0;
 }

@@ -1,0 +1,36 @@
+{
+    "classes": [
+        {
+            "name": "Archer",
+            "description": "A range combat expert who excels with bows, specialising in precision attacks from a distance and agility to avoid melee threats"
+        },
+        {
+            "name": "Mage",
+            "description": "A spellcaster who harnesses magic to manipulate the elements, cast devastating offensive spells or provide magical support through healing utility spells"
+        },
+        {
+            "name": "Sage",
+            "description": "A jack-of-all-trades magician who is capable of wielding multiple elements and skills, capable of casting offensive, defensive, and support magic at once"
+        },
+        {
+            "name": "Warrior",
+            "description": "A heavily-armoured frontline combatant with exceptional strength and endurance, skilled in melee weapons and capable of soaking up damage to protect allies."
+        },
+        {
+            "name": "Rogue",
+            "description": "A stealthy and agile class, adept at sneaking, lockpicking, and using daggers or short swords to deliver critical hits or set traps for enemies."
+        },
+        {
+            "name": "Cleric",
+            "description": "A divine healer and protector, capable of mending wounds, curing ailments, and using holy magic to smite enemies or ward off undead threats."
+        },
+        {
+            "name": "Paladin",
+            "description": "A holy knight who combines martial prowess with divine spells, acting as both a capable warrior and a healer, often bound by a strict code of honour."
+        },
+        {
+            "name": "Alchemist",
+            "description": "A scientist that utilises potions and magic to blend a concoction of reactions, able to perform all tasks in combat with a multitude of effects."
+        }
+    ]
+}
